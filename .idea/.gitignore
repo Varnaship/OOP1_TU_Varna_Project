@@ -1,17 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-# IntelliJ IDEA
-.idea/
-*.iml
-*.ipr
-*.iws
-
-# Build output
-out/
-target/
-build/
-
-# OS
-.DS_Store
-Thumbs.db
